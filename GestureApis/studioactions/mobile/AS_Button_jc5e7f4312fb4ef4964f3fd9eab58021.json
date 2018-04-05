@@ -1,0 +1,17 @@
+{
+    "AS_Button_jc5e7f4312fb4ef4964f3fd9eab58021": {
+        "id": "AS_Button_jc5e7f4312fb4ef4964f3fd9eab58021",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c6b22b84cf154594849347883d9de2fa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.lblGesture.text=\"Verify Swipe gesture in four directions in below container\";\nthis.view.imgGes.src=\"arrow4.png\";",
+            "callbackType": null
+        }]
+    }
+}

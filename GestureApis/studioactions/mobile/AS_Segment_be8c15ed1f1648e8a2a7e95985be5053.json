@@ -1,0 +1,18 @@
+{
+    "AS_Segment_be8c15ed1f1648e8a2a7e95985be5053": {
+        "id": "AS_Segment_be8c15ed1f1648e8a2a7e95985be5053",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onPull_aac1cfca4d0245ae84802d3a2f981bcb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.segmentOnPullCallback();",
+            "callbackType": null,
+            "disabled": false
+        }]
+    }
+}

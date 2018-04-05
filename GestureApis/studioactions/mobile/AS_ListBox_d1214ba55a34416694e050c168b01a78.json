@@ -1,0 +1,17 @@
+{
+    "AS_ListBox_d1214ba55a34416694e050c168b01a78": {
+        "id": "AS_ListBox_d1214ba55a34416694e050c168b01a78",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSelection_dda35294bac3446b9f306eb7a028df22",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxLongpress.removeGestureRecognizer(gesturehandle);\nthis.addLongPressGesture();",
+            "callbackType": null
+        }]
+    }
+}

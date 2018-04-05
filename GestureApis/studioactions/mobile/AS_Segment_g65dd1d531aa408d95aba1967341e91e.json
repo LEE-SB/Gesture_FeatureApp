@@ -1,0 +1,41 @@
+{
+    "AS_Segment_g65dd1d531aa408d95aba1967341e91e": {
+        "id": "AS_Segment_g65dd1d531aa408d95aba1967341e91e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "d158ffc108704dbb81ae590d0fd982c2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ba4e30e502ca45e1bce9403eca56953d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.segmentOnPullCallback();",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false
+        }, {
+            "id": "SHOW_ALERT__e0f2b5486f7d419a86d28f8fdff03276",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": "Pull detected!!!!",
+            "yesLabel": "OK",
+            "alertIcon": "slider_android.png",
+            "alertMessage": "segment pulled!!!!!!",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_RIGHT",
+            "disabled": true
+        }]
+    }
+}

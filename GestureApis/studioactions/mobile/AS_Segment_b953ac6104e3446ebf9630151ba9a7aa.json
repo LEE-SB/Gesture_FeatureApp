@@ -1,0 +1,23 @@
+{
+    "AS_Segment_b953ac6104e3446ebf9630151ba9a7aa": {
+        "id": "AS_Segment_b953ac6104e3446ebf9630151ba9a7aa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "a25f8843bed44807876c29fb9715e17a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ac1a421adf5b4f5f9c89030f8e690bb2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Segment Pull Triggered!!\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

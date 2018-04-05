@@ -1,0 +1,24 @@
+{
+    "AS_Form_c649159c9f3943918b897ce67b8fee8c": {
+        "id": "AS_Form_c649159c9f3943918b897ce67b8fee8c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPinch",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a03bb478310c43df9e1bfd24a1da00b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__eb3d8f91379642a0a89a6f64143fcc93",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.addPinchGesture();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

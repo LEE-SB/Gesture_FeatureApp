@@ -1,0 +1,24 @@
+{
+    "AS_Form_c24a4d4329f1413a95e16b4509283368": {
+        "id": "AS_Form_c24a4d4329f1413a95e16b4509283368",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPan",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h70656b84057414aad2ead9b0573e97a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i6797eeb05b94e9097c82d59e3391c01",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.addPanGesture();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

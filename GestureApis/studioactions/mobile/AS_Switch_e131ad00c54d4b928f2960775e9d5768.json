@@ -1,0 +1,23 @@
+{
+    "AS_Switch_e131ad00c54d4b928f2960775e9d5768": {
+        "id": "AS_Switch_e131ad00c54d4b928f2960775e9d5768",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "e7c148d6e7084f8d801470013be88c9a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e93f2d528e1d478a8b6145daa756d2b9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onSwitchSlide(eventobject);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

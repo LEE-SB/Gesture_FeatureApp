@@ -1,0 +1,362 @@
+{
+    "images": [],
+    "screenshotGenerated": true,
+    "skinDefs": {},
+    "sourceChannel": "common",
+    "templateDef": {
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "string",
+            "value": "10%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_skin_": "s10c4713a5b341eda79ff2fc8a77c6e7",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [
+            "img1",
+            "img2",
+            "img3",
+            "img4",
+            "img5"
+        ],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "id": "RatingBar",
+        "img1": {
+            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+            "DNDConfig": null,
+            "__markedForDelete__": true,
+            "__parentReadjusting__": false,
+            "_base64_": null,
+            "_height_": {
+                "type": "string",
+                "value": "100%"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "4%"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s211bfb04e044a76ab39a04c6d61066b",
+            "_src_": "empty_star.png",
+            "_top_": {
+                "type": "string",
+                "value": "0%"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "16%"
+            },
+            "canUpdateUI": true,
+            "containerweight": 100,
+            "context": {
+                "channel": "mobile",
+                "formID": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+                "platform": "iphone",
+                "templateType": "userwidgets",
+                "topLevelBox": null
+            },
+            "id": "img1",
+            "ide_onTouchEnd": "AS_Image_g2eecdab73784f6e93b3949787672620",
+            "imagescalemode": 1,
+            "info": null,
+            "isvisible": true,
+            "kuid": "g36f89f733e147da8724d3bfe13ba626",
+            "name": "kony.ui.Image2",
+            "parent": "RatingBar",
+            "pf": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+            "srcType": 1,
+            "wType": "Image",
+            "widgetalignment": 5,
+            "zindex": 1
+        },
+        "img2": {
+            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+            "DNDConfig": null,
+            "__markedForDelete__": true,
+            "__parentReadjusting__": false,
+            "_base64_": null,
+            "_height_": {
+                "type": "string",
+                "value": "100%"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "20%"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s211bfb04e044a76ab39a04c6d61066b",
+            "_src_": "empty_star.png",
+            "_top_": {
+                "type": "string",
+                "value": "0%"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "16%"
+            },
+            "canUpdateUI": true,
+            "containerweight": 100,
+            "context": {
+                "channel": "mobile",
+                "formID": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+                "platform": "iphone",
+                "templateType": "userwidgets",
+                "topLevelBox": null
+            },
+            "id": "img2",
+            "ide_onTouchEnd": "AS_Image_d2acc0b0e227486382a36623995e4ae9",
+            "imagescalemode": 1,
+            "info": null,
+            "isvisible": true,
+            "kuid": "h273bde263544a23858d35a4af22cae8",
+            "name": "kony.ui.Image2",
+            "parent": "RatingBar",
+            "pf": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+            "srcType": 1,
+            "wType": "Image",
+            "widgetalignment": 5,
+            "zindex": 1
+        },
+        "img3": {
+            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+            "DNDConfig": null,
+            "__markedForDelete__": true,
+            "__parentReadjusting__": false,
+            "_base64_": null,
+            "_height_": {
+                "type": "string",
+                "value": "100%"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "40%"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s211bfb04e044a76ab39a04c6d61066b",
+            "_src_": "empty_star.png",
+            "_top_": {
+                "type": "string",
+                "value": "0%"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "16%"
+            },
+            "canUpdateUI": true,
+            "containerweight": 100,
+            "context": {
+                "channel": "mobile",
+                "formID": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+                "platform": "iphone",
+                "templateType": "userwidgets",
+                "topLevelBox": null
+            },
+            "id": "img3",
+            "ide_onTouchEnd": "AS_Image_i75b46085d554e2d9a34cb9ad7a5bdff",
+            "imagescalemode": 1,
+            "info": null,
+            "isvisible": true,
+            "kuid": "e2739523e0e945399cd737090744917c",
+            "name": "kony.ui.Image2",
+            "parent": "RatingBar",
+            "pf": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+            "srcType": 1,
+            "wType": "Image",
+            "widgetalignment": 5,
+            "zindex": 1
+        },
+        "img4": {
+            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+            "DNDConfig": null,
+            "__markedForDelete__": true,
+            "__parentReadjusting__": false,
+            "_base64_": null,
+            "_height_": {
+                "type": "string",
+                "value": "100%"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "60%"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s211bfb04e044a76ab39a04c6d61066b",
+            "_src_": "empty_star.png",
+            "_top_": {
+                "type": "string",
+                "value": "0%"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "16%"
+            },
+            "canUpdateUI": true,
+            "containerweight": 100,
+            "context": {
+                "channel": "mobile",
+                "formID": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+                "platform": "iphone",
+                "templateType": "userwidgets",
+                "topLevelBox": null
+            },
+            "id": "img4",
+            "ide_onTouchEnd": "AS_Image_bb1a3b0b8a814a67ba6b66f26f4203d1",
+            "imagescalemode": 1,
+            "info": null,
+            "isvisible": true,
+            "kuid": "a7e6b27e5fb94adfa549d4099dcdff32",
+            "name": "kony.ui.Image2",
+            "parent": "RatingBar",
+            "pf": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+            "srcType": 1,
+            "wType": "Image",
+            "widgetalignment": 5,
+            "zindex": 1
+        },
+        "img5": {
+            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+            "DNDConfig": null,
+            "__markedForDelete__": true,
+            "__parentReadjusting__": false,
+            "_base64_": null,
+            "_height_": {
+                "type": "string",
+                "value": "100%"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "80%"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s211bfb04e044a76ab39a04c6d61066b",
+            "_src_": "empty_star.png",
+            "_top_": {
+                "type": "string",
+                "value": "0%"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "16%"
+            },
+            "canUpdateUI": true,
+            "containerweight": 100,
+            "context": {
+                "channel": "mobile",
+                "formID": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+                "platform": "iphone",
+                "templateType": "userwidgets",
+                "topLevelBox": null
+            },
+            "id": "img5",
+            "ide_onTouchEnd": "AS_Image_idcb9117cb624791896aa0bfaed4dd03",
+            "imagescalemode": 1,
+            "info": null,
+            "isvisible": true,
+            "kuid": "i33b74a3628c420f812af46ab6dcb80e",
+            "name": "kony.ui.Image2",
+            "parent": "RatingBar",
+            "pf": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+            "srcType": 1,
+            "wType": "Image",
+            "widgetalignment": 5,
+            "zindex": 1
+        },
+        "info": null,
+        "isvisible": true,
+        "kuid": "c0f6db2b364d47099e922a046244db60",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+        "pf": "uwub5f2e45bdd648ef87d70d3b7ce30ab8",
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "wType": "FlexContainer",
+        "widgetalignment": 1
+    },
+    "userwidgetKUID": "u42334aaa41f4e7f80fb843979143f36"
+}

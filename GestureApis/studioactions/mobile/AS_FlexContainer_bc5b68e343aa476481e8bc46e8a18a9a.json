@@ -1,0 +1,20 @@
+{
+    "AS_FlexContainer_bc5b68e343aa476481e8bc46e8a18a9a": {
+        "id": "AS_FlexContainer_bc5b68e343aa476481e8bc46e8a18a9a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f87f70c2135e4de1a6534869fac8414a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onDeleteRow(eventobject,context);",
+            "callbackType": null
+        }]
+    }
+}

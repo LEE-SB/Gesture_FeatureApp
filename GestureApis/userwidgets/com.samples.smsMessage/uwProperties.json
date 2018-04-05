@@ -1,0 +1,41 @@
+{
+    "classname": "smsMessage",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "kuid": "ea61d35b0c304c8aa8353cabfc191a91",
+                    "paramList": [],
+                    "propertyKey": "reFreshWithRowAnim",
+                    "pw": {
+                        "displayName": "reFreshWithRowAnim",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "e904920eb20e4ae389b017e5990dce85",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.samples",
+    "version": "1.0.0"
+}

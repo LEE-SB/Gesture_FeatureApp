@@ -1,0 +1,25 @@
+{
+    "AS_FlexContainer_be7cde27c4384fec9d8384ae18c7aa05": {
+        "id": "AS_FlexContainer_be7cde27c4384fec9d8384ae18c7aa05",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": null,
+            "KUID": "fa0ba311500e477581c9c0a00756c933"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_bd34ab78c0c541fa94553db32ac953d2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"clicked on mark read!!!\");",
+            "callbackType": null
+        }]
+    }
+}

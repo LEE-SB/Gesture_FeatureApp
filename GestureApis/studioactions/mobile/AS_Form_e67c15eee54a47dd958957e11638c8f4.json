@@ -1,0 +1,24 @@
+{
+    "AS_Form_e67c15eee54a47dd958957e11638c8f4": {
+        "id": "AS_Form_e67c15eee54a47dd958957e11638c8f4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTap",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a40fcfe439ac48a680d2404f01520123"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__db03d09d8fde409b8e6ae476fcc55dbd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.lblTap.text=\"\";\nthis.view.lblDbl.text=\"\";\nthis.addSingleTapGesture();\nthis.addDoubleTapGesture();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Form_a70b1d68540d4ddabb23f11a9b24be39": {
+        "id": "AS_Form_a70b1d68540d4ddabb23f11a9b24be39",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "dbcd03a237314d2c814fefe59bdbcbb2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__af8c3b8228004cc583502c513bb67364",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.frmSwipeToDeletePostShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

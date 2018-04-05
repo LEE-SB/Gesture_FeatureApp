@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "54dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s47750e390324e1e8b2d031468a214df",
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "allboxes": [],
+    "android": {
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "ButtonRound"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "PaddedButtonRound",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e84641776fb8427ea43a462bd14036ae",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmTap",
+    "pf": "frmTap",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spa": {},
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

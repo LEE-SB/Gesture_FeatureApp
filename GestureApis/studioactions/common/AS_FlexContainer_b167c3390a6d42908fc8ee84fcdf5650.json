@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_b167c3390a6d42908fc8ee84fcdf5650": {
+        "id": "AS_FlexContainer_b167c3390a6d42908fc8ee84fcdf5650",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "uwu51e643859104a63affe0998f9440b19",
+            "type": "userwidgets",
+            "KUID": "u51e643859104a63affe0998f9440b19"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ddabf3e4ffbd429e971829d3d1e47879",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.productListPreshow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

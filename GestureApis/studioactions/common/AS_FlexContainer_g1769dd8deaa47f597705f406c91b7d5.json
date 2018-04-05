@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_g1769dd8deaa47f597705f406c91b7d5": {
+        "id": "AS_FlexContainer_g1769dd8deaa47f597705f406c91b7d5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "uwub368baf064c42e6bb16b00fe88d5fb8",
+            "type": "userwidgets",
+            "KUID": "ub368baf064c42e6bb16b00fe88d5fb8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ffea1ccb16e04f4ea4f24d476856faf7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.smsMsgPostShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

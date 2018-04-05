@@ -1,0 +1,24 @@
+{
+    "AS_Form_he3e3177b20f4715b20af0e87b1eae7f": {
+        "id": "AS_Form_he3e3177b20f4715b20af0e87b1eae7f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLongPress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b2810d7389304a0fad6d5f6266c8748d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i4077f4f2ba346498810bab817d44c10",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.lblGesture.text=\"\";\nthis.addLongPressGesture();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

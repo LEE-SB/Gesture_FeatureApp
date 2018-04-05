@@ -1,0 +1,17 @@
+{
+    "AS_Button_h87372e58bca451ea8a3bb0b3c378af2": {
+        "id": "AS_Button_h87372e58bca451ea8a3bb0b3c378af2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d2d97004cdd84a069f2218cf0fdc4026",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.lblGesture.text=\"\";\n",
+            "callbackType": null
+        }]
+    }
+}

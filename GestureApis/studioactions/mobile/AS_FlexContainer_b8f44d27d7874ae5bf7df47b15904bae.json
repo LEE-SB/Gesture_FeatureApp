@@ -1,0 +1,20 @@
+{
+    "AS_FlexContainer_b8f44d27d7874ae5bf7df47b15904bae": {
+        "id": "AS_FlexContainer_b8f44d27d7874ae5bf7df47b15904bae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c3b9be9468a4423a97b3fe7a16ee6fbf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"clicked on mark read!!!\");",
+            "callbackType": null
+        }]
+    }
+}

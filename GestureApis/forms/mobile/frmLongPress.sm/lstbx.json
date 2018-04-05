@@ -1,0 +1,89 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "58dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s0e3711ba70b4dd1a392748240e03744",
+    "_top_": {
+        "type": "string",
+        "value": "118dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmLongPress",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s54359143ba540e49c67bfa5edd18ef9",
+    "groupcells": false,
+    "id": "lstbx",
+    "ide_onSelection": "AS_ListBox_d1214ba55a34416694e050c168b01a78",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a38fb65376b74b69901e96f186c0d083",
+    "masterdata": [
+        [
+            "0",
+            "0 Sec"
+        ],
+        [
+            "1",
+            "1 Sec"
+        ],
+        [
+            "2",
+            "2 Sec"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "frmLongPress",
+    "pf": "frmLongPress",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "0",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "0",
+        "0 Sec"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

@@ -1,0 +1,118 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "37.80%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": 0,
+    "focuseditem": {},
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segCarousel2",
+    "ide_onSwipe": "AS_Segment_fef71752b88f4731bc424fd6909d6e4c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "dce028142ee144e1bcad7ffac5a12a85",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "rowtemplate": null,
+        "sectionHeaderTemplateId": null,
+        "selectionBehaviorConfig": null,
+        "widgetdatamap": {}
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "CardNoPeek",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowcounter": 3,
+    "rowfocusskin": "s90d0f8799674b088cccb84acfdccdb3",
+    "rowskin": "s64eddab24b64b24882dfc6b2b9e29ce",
+    "rowtemplate": "konympcarousel2flx",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s2d6b5408f7842759e16d6e1ba53307d",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": [
+        0,
+        0
+    ],
+    "selectedindices": null,
+    "selecteditems": {},
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 750,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {},
+    "zindex": 2
+}
