@@ -1,18 +1,22 @@
-# Gesture_FeatureApp
-This application will showcase different types of gestures
+Gestures
+===========
 
-Purpose
-This Application will showcase the following gestures
+This application will showcase features of Gesture APIs
+
+
+# Purpose
+This Application will showcase the following Gestures
 
 * Tap
 * Swipe
-* Long press
+* Long Press
 * Pan
 * Pinch
-* ROtation
+* Rotation
 
-Supported platforms for Kony Visualizer 8.1
-Mobile
 
-* Android
-* iPhone
+# Supported platforms for Kony Visualizer 8.1
+**Mobile**
+ * Android
+ * iPhone
+
